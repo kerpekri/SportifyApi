@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhY0XAKtAD+jyMF0yMeMozD0n8/GaRvVGOi3YCmY13xkgweCoxbGQH1jHe71u+KPIuT20VXfJ5s5B1/JaQvOog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krist\\RiderProjects\\SportifyApi\\src\\SportifyApi.SharedKernel\\SportifyApi.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krist\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

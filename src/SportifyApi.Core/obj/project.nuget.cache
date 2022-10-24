@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nTH1y5/oZ4RN/PxQGj9v4rTZhot0sBIyc8OSswkRK6shInraEk9tcTzuJg40aUaF6b07dIDLQjNNlPzq3ExyIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krist\\RiderProjects\\SportifyApi\\src\\SportifyApi.Core\\SportifyApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krist\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\ardalis.result\\4.0.0\\ardalis.result.4.0.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
